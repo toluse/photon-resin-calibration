@@ -1,8 +1,8 @@
 # 010 Hex Editor Template
 
 Download 010 Editor
-Drop anycubic-photon-hextemplate.bt into the template folder
-Open the .photon file you want to edit
+Drop cbddlp-hextemplate.bt into the template folder
+Open the .photon or .cbddlp file you want to edit
 apply the template to reveal the meaning of the blocks
 
 Check the short intro video on how to hack the files
