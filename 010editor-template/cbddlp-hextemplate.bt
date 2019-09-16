@@ -123,7 +123,7 @@ struct FILE
     preview_t previewTwo;
   }
 
-  if (header.version == 2)
+  if (header.version == 2 && header.printParametersOffsetAddress)
   {
     FSeek(header.printParametersOffsetAddress);
     print_parameters_t printParameters;
